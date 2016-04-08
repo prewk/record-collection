@@ -1,0 +1,12 @@
+{
+    "require": {
+        "prewk/record": "0.0.4",
+        "illuminate/support": "^5.2",
+        "illuminate/http": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Prewk\\": "src/"
+        }
+    }
+}
